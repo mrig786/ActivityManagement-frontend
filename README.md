@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Commands
-To create an app: $ npx create-react-app app-name
-To start npm - $ npm start
+To create an app: $ npx create-react-app app-name <br />
+To start npm - $ npm start <br />
 To add a new library - $ nom add library-name 
 
 ## Available Scripts
